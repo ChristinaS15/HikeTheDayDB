@@ -25,3 +25,6 @@ Team 25, Databases, December 2020
 [Chrysoula Mosxou]
 
 [Zoi Bontsiou]
+[Sakka Christina](https://github.com/ChristinaS15)
+
+
