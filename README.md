@@ -22,8 +22,8 @@ SQL scripts that include queries to the database.
 ## Group info
 Team 25, Databases, December 2020
 
-[Sakka Christina](https://github.com/ChristinaS15)
-Chrysoula Mosxou
+[Christina Sakka](https://github.com/ChristinaS15)\
+[Chrysoula Mosxou](https://github.com/chrysoula-moschou-2a8269234)\
 Zoi Bontsiou
 
 
