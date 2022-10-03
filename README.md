@@ -18,3 +18,10 @@ SQL script for creating the users of the database and their rights.
 
 ## query1.sql, query2.sql, ... , query12.sql 
 SQL scripts that include queries to the database.
+
+## Group info
+Team 25, Databases, December 2020
+[Christina Sakka] (https://github.com/ChristinaS15)
+[Chrysoula Mosxou]
+
+[Zoi Bontsiou]
