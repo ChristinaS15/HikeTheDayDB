@@ -23,7 +23,7 @@ SQL scripts that include queries to the database.
 Team 25, Databases, December 2020
 
 [Christina Sakka](https://github.com/ChristinaS15)\
-[Chrysoula Mosxou](https://github.com/chrysoula-moschou-2a8269234)\
+[Chrysoula Mosxou](https://github.com/moschouChry)\
 Zoi Bontsiou
 
 
